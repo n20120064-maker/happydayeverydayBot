@@ -1,0 +1,13 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.db
+*.log
+*.err
+bot.log
+bot.err
+happy_day_bot/.env
+happy_day_bot/.venv/
+happy_day_bot/happy_day.sqlite3
